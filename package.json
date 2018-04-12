@@ -1,0 +1,23 @@
+{
+  "name": "paco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacog1994/nodeHero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pacog1994/nodeHero/issues"
+  },
+  "homepage": "https://github.com/pacog1994/nodeHero#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
